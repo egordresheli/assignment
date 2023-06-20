@@ -1,0 +1,11 @@
+.idea
+apps/*
+data/*
+!data/.gitkeep
+!/**/.gitkeep
+/.env
+entrypoint/dumps/*.sql
+
+.DS_Store
+Thumbs.db
+
